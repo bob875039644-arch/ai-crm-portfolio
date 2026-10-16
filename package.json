@@ -1,0 +1,26 @@
+{
+  "name": "ai-crm-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sanitized engineering samples from an AI-assisted CRM project",
+  "type": "module",
+  "engines": {
+    "node": ">=24 <25"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "demo": "tsx examples/run.ts",
+    "check:content": "node scripts/check-content.mjs",
+    "check": "npm run typecheck && npm test && npm run check:content"
+  },
+  "dependencies": {
+    "zod": "3.25.76"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.21",
+    "tsx": "4.19.4",
+    "typescript": "5.8.3",
+    "vitest": "4.1.11"
+  }
+}

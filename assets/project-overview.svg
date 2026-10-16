@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="420" viewBox="0 0 1080 420" role="img" aria-labelledby="title desc">
+<title id="title">AI CRM 项目能力概览</title><desc id="desc">概念示意图：客户沟通、结构化分析、销售行动，以及可运行的四个工程样例。不是生产截图。</desc>
+<rect width="1080" height="420" rx="20" fill="#101d30"/>
+<g font-family="Segoe UI, Microsoft YaHei, sans-serif">
+<text x="44" y="57" fill="#66dfc4" font-size="15" letter-spacing="3">MAX AGENT / ENGINEERING PORTFOLIO</text>
+<text x="44" y="109" fill="#ffffff" font-size="32" font-weight="700">从业务证据到可信的 Agent 回答</text>
+<text x="44" y="144" fill="#b3c3d8" font-size="17">LangChain · MCP · TypeScript · PostgreSQL · 结构化分析</text>
+<g fill="#1a2e47" stroke="#34516e"><rect x="44" y="184" width="300" height="108" rx="12"/><rect x="390" y="184" width="300" height="108" rx="12"/><rect x="736" y="184" width="300" height="108" rx="12"/></g>
+<g fill="#66dfc4" font-size="14"><text x="65" y="213">01 / CONTEXT</text><text x="411" y="213">02 / UNDERSTANDING</text><text x="757" y="213">03 / ACTION</text></g>
+<g fill="#fff" font-size="22" font-weight="600"><text x="65" y="246">上下文与权限</text><text x="411" y="246">工具编排与证据</text><text x="757" y="246">校验与回答</text></g>
+<g fill="#b3c3d8" font-size="14"><text x="65" y="272">服务端身份 · 业务范围</text><text x="411" y="272">MCP · Harness · 取证</text><text x="757" y="272">引用核验 · 有界执行</text></g>
+<g stroke="#66dfc4" stroke-width="2" fill="none"><path d="M352 238h27m-8-6 8 6-8 6"/><path d="M698 238h27m-8-6 8 6-8 6"/></g>
+<path d="M44 321h992" stroke="#34516e"/>
+<text x="44" y="352" fill="#fff" font-size="17">可运行样例</text><text x="170" y="352" fill="#b3c3d8" font-size="16">Agent 进展控制 / 证据准入 / 结构契约 / 基础工程</text>
+<text x="44" y="388" fill="#8ba4c1" font-size="13">公开脱敏展示 · 合成测试数据 · 能力示意图，非生产截图</text>
+</g></svg>
